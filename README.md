@@ -13,3 +13,7 @@ My Excel homework solutions to typical actuarial work problems.
 ### Staging table from several Excel files (SQL Server 2012)
 
 - https://rpmachado.wordpress.com/2014/02/02/staging-table-from-several-excel-files-sql-server-2012/
+
+### A million ways to connect R and Excel
+
+- https://www.r-bloggers.com/a-million-ways-to-connect-r-and-excel/
