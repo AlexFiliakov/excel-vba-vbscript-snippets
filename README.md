@@ -1,2 +1,2 @@
-# excel-vba-vbscript-snippets
-My Excel solutions to typical work problems.
+# Excel, VBA, VBScript Snippets
+My Excel homework solutions to typical work problems.
