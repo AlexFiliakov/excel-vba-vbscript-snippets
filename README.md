@@ -1,2 +1,2 @@
 # Excel, VBA, VBScript Snippets
-My Excel homework solutions to typical work problems.
+My Excel homework solutions to typical actuarial work problems.
